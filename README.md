@@ -47,8 +47,13 @@ part-1-neural-network-analysis/
 
 ## Libraries Used
 tensorflow — for building the neural network
+
 scikit-learn — for preprocessing, train-test split, metrics
+
 pandas — for loading and handling data
+
 numpy — for numerical operations
+
 matplotlib — for plotting graphs
+
 seaborn — for visualisations like heatmap
